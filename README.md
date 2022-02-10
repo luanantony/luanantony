@@ -9,7 +9,7 @@ I'm Luan Antony, and I'm a tech student. I'm passionate about solving problems a
 -   🌎  João Pessoa - Paraíba - Brazil
 -   👨‍💻  Internet systems student.
  -   🌱  Seeking to learn more every day.
--   💻  Studying back-end development.
+-   💻  Studying back-end development and Salesforce.
 
 
 ---
